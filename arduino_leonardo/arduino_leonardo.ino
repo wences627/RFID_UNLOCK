@@ -34,7 +34,7 @@ void procesarCodigo(){
       Serial.println("Hola Hugo");
       Keyboard.print("hugo\n");
       delay(500);
-      Keyboard.print("15091991\n");
+      Keyboard.print("**********\n");
    }
    if(codigo_rfid == "11712417446\r\n"){
       Serial.println("Hola Rafo");
